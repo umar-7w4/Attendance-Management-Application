@@ -1,6 +1,6 @@
 # Attendance Management System
 
-## Description
+## Description 
 An Attendance Management System developed using Java Spring Boot and PostgreSQL, incorporating full CRUD operations. This application follows a meticulously layered architecture, including entities, repositories, services, exceptions, and controllers. Designed with object-oriented programming principles at its core, it offers an intuitive interface for managing attendance records efficiently. 
 
 The system handles all exceptions globally, ensuring robust and error-free performance. Its primary features include tracking employee attendance, generating reports, and providing real-time insights into workforce attendance patterns.
