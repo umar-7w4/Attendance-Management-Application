@@ -52,3 +52,26 @@ This project is licensed under the @2022 Umar Mohammad
 ## Contact
 If you have any questions or want to contribute, please email us at mohammadumar7w4@gmail.com
 
+### **Damage from Misleading and Hate Speeches by Modi**
+
+**Saharanpur**: *Modi called Muslims infiltrators and accused Congress in favour.*  
+**Result**: *BJP lost by 64K seats.*
+
+**Banswara**: *Modi claimed Congress would steal "Mangalsutra" from women.*  
+**Result**: *BJP lost by 2.4L seats.*
+
+**Salem, TN**: *Modi stated Congress is anti-Hindu.*  
+**Result**: *BJP lost by 4L seats.*
+
+**Banaskanta**: *Modi said Congress would steal one of two cattle.*  
+**Result**: *BJP lost by 30K seats.*
+
+**Tonk, Rajasthan**: *Modi accused Congress would give SC/ST quota to Muslims.*  
+**Result**: *BJP lost by 60K seats.*
+
+**Ghosi, UP**: *Modi said Congress would make Hindus second-class citizens.*  
+**Result**: *BJP lost by 1.6L seats.*
+
+**Barabank, UP**: *Modi claimed Congress would bulldoze Ram Mandir.*  
+**Result**: *BJP lost by 2.5L seats.*
+
